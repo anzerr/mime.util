@@ -4,7 +4,8 @@ Util to find the Content-Type for a extension
 
 #### `Install`
 ``` bash
-npm install --save git+https://git@github.com/anzerr/mime.util.git
+npm install --save git+https://github.com/anzerr/mime.util.git
+npm install --save @anzerr/mime.util
 ```
 
 ### `Example`
