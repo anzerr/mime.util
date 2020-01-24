@@ -1,5 +1,7 @@
 
 ### `Intro`
+![GitHub Actions status | publish](https://github.com/anzerr/mime.util/workflows/publish/badge.svg)
+
 Util to find the Content-Type for a extension
 
 #### `Install`
