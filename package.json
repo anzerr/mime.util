@@ -1,7 +1,12 @@
 {
 	"name": "mime.util",
 	"version": "1.0.6",
-	"keywords": [],
+	"description": "Util to find the Content-Type for a extension",
+	"keywords": [
+		"mime",
+		"nodejs",
+		"util"
+	],
 	"homepage": "https://github.com/anzerr/mime.util#readme",
 	"bugs": {
 		"url": "https://github.com/anzerr/mime.util/issues"
@@ -14,9 +19,7 @@
 	"author": "anzerr",
 	"main": "index.js",
 	"types": "index.d.ts",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
+	"scripts": {},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	},
