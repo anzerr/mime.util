@@ -1,6 +1,6 @@
 {
 	"name": "mime.util",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Util to find the Content-Type for a extension",
 	"keywords": [
 		"mime",
